@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1eb2c5; /* Light cyan background to represent a clean environment */
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #020c0a; /* Dark green for the title to represent eco-friendliness */
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #040c0b; /* Lighter green for subheadings */
+  font-size: 2em;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: 1.2em;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+p {
+  color: #080e0d; /* Dark green for text */
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
